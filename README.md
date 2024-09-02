@@ -3,7 +3,6 @@
 - 👀 Exploring: The intersection of math and tech.
 - 🌱 Learning: MERN stack & advanced algorithms.
 - 🚀 Tech Explorer: Always on the hunt for the next big thing in tech.
-- 💡 Collaborating on: Open-source and innovative tech projects.
 - 🔍 Detail-Oriented: Obsessed with clean, efficient, and scalable code.
 - 📫 Reach me: LinkedIn | akhil00664@gmail.com
 - 😄 Pronouns: He/Him
