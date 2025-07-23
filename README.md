@@ -1,12 +1,15 @@
+
 👋 Hi, I’m Akhilesh Ojha (@Akhilesh664)
-- 💻 Code Wizard: Turning coffee into code and ideas into reality.
-- 👀 Exploring: The intersection of math and tech.
-- 🌱 Learning: MERN stack & advanced algorithms.
-- 🚀 Tech Explorer: Always on the hunt for the next big thing in tech.
-- 🔍 Detail-Oriented: Obsessed with clean, efficient, and scalable code.
-- 📫 Reach me: Email-Id | akhil00664@gmail.com 
+🎯 Software Developer | Backend Developer | Java Enthusiast | Clean Code Advocate
+
+- 💻 Java & Spring Boot Developer — building robust REST APIs and scalable backend systems
+- 🧪 Testing First Mindset — skilled in JUnit & Mockito for writing maintainable, testable code
+- 🔧 Currently exploring: Microservices, Spring Security, and System Design patterns
+- 📊 Passionate about code quality, clean architecture, and developer best practices
+- 🧠 Hands-on with React.js (Frontend), Spring Boot (Backend), and MySQL (Database) — building full-stack apps with a backend-first approach
+- 📬 Let’s connect: akhil00664@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: From civil engineer to code enthusiast! 
+- 🛠️ Fun fact: Transitioned from Civil Engineering to full-time Java Backend Developer
 
 
 <!---
