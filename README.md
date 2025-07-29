@@ -63,7 +63,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akhilesh664&theme=tokyonight&no-frame=true&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Akhilesh664&theme=tokyonight&no-frame=true&column=2" alt="GitHub Trophies" />
 </p>
 
 
